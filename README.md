@@ -1,11 +1,16 @@
 # Stock Market Analysis Tool
 
+<<<<<<< HEAD
 ## Live Demo
 Check out the live application hosted on Streamlit Community Cloud:
 [Stock Market Analysis Tool Demo](https://stock-market-analysis-tool-dznqziwzwvmum9axghvlqk.streamlit.app/)
 
 ## Overview
 This **Streamlit-based Stock Market Analysis Tool** provides a comprehensive suite of features to analyze stock data, predict prices, and screen for top stocks. Built using **Yahoo Finance API, Machine Learning**, this app is designed to help investors and traders make informed decisions.
+=======
+## Overview
+This **Streamlit-based Stock Market Analysis Tool** provides a comprehensive suite of features to analyze stock data,]predict prices, and screen for top stocks. Built using **Yahoo Finance API, Machine Learning**, this app is designed to help investors and traders make informed decisions.
+>>>>>>> dd36dcefb1ef9d1d9a9c9b8106f33458a0fe506f
 
 
 ## Features
