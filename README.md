@@ -32,11 +32,6 @@ streamlit run app.py
 1. Open the app and enter a stock ticker (e.g., IRCTC.NS, ONGC.NS).  
 3. Analyze stock trends, predict prices, and screen stocks.  
 
-## Live Demo
-https://stock-market-analysis-tool-dznqziwzwvmum9axghvlqk.streamlit.app/
-
-## Repository
-https://github.com/Suresh286/Stock-Market-Analysis-Tool.git
 
 ## Contributing
 Contributions are welcome! Feel free to open issues and submit pull requests.
